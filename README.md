@@ -158,11 +158,11 @@ I am especially interested in **ERP, test automation, and software development b
 
 ---
 
-<img src="https://raw.githubusercontent.com/AlfredoMelloDev/AlfredoMelloDev/output/snake.svg" alt="Snake animation" />
-
 </details>
 
 ---
+
+<img src="https://raw.githubusercontent.com/AlfredoMelloDev/AlfredoMelloDev/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=1DD4E5&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer+%7C+PHP+%7C+Laravel+%7C+JS;Backend+%2B+Frontend+%3D+Solu%C3%A7%C3%B5es+Completas" alt="Typing SVG" />
