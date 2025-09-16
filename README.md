@@ -158,6 +158,8 @@ I am especially interested in **ERP, test automation, and software development b
 
 ---
 
+<img src="https://raw.githubusercontent.com/AlfredoMelloDev/AlfredoMelloDev/output/snake.svg" alt="Snake animation" />
+
 </details>
 
 ---
