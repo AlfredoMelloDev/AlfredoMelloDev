@@ -14,8 +14,6 @@
 Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas na ULBRA**, buscando alinhar teoria e prática para criar sistemas **robustos, escaláveis e confiáveis**.  
 
-Tenho interesse especial em **ERP, automação de testes e boas práticas de desenvolvimento**.  
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
