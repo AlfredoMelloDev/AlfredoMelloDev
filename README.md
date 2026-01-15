@@ -64,22 +64,6 @@ colaboração em ambientes internacionais..
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-  <a href="https://github.com/AlfredoMelloDev">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlfredoMelloDev&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
-  </a>
-  <a href="https://github.com/AlfredoMelloDev">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlfredoMelloDev&amp;layout=compact&amp;langs_count=8&amp;theme=dracula"/>
-  </a>
-</div>
-
-
----
-
 ## 📫 Vamos nos conectar?  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alfredo-mello-687653230/)  
