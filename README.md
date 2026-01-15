@@ -11,8 +11,13 @@
 
 ## 👨‍💻 Sobre mim  
 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas na ULBRA**, buscando alinhar teoria e prática para criar sistemas **robustos, escaláveis e confiáveis**.  
+**Desenvolvedor FullStack** com experiência em projetos web estruturados, atuando no
+desenvolvimento e manutenção de sistemas frontend e backend. Possuo vivência
+em **organização de código**, **separação de responsabilidades** e aplicação de **boas práticas**
+de desenvolvimento, participando ativamente da evolução de projetos reais,
+com autonomia técnica e foco em qualidade, manutenibilidade e escalabilidade das
+soluções. Fluente em inglês, com capacidade para comunicação técnica e
+colaboração em ambientes internacionais..  
 
 ---
 
@@ -29,7 +34,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na ULBRA**, buscando a
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 #### ⚙️ Back-End  
@@ -107,7 +113,8 @@ I am especially interested in **ERP, test automation, and software development b
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 #### ⚙️ Back-End  
