@@ -66,14 +66,17 @@ colaboração em ambientes internacionais..
 
 ## 📊 Estatísticas do GitHub  
 
+## 📊 Estatísticas do GitHub  
+
 <div align="center">
   <a href="https://github.com/AlfredoMelloDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfredoMelloDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlfredoMelloDev&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
   </a>
   <a href="https://github.com/AlfredoMelloDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMelloDev&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlfredoMelloDev&amp;layout=compact&amp;langs_count=8&amp;theme=dracula"/>
   </a>
 </div>
+
 
 ---
 
